@@ -145,6 +145,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 1E09204019B5CD55007BAC25;
@@ -277,7 +278,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
-					/usr/local/Cellar/freetype/2.5.3_1/include/freetype2,
+					/usr/local/Cellar/freetype/2.10.1/include/freetype2,
 				);
 				INFOPLIST_FILE = resources/Info.plist;
 				INSTALL_PATH = /Library/QuickLook;
@@ -326,7 +327,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
-					/usr/local/Cellar/freetype/2.5.3_1/include/freetype2,
+					/usr/local/Cellar/freetype/2.10.1/include/freetype2,
 				);
 				INFOPLIST_FILE = resources/Info.plist;
 				INSTALL_PATH = /Library/QuickLook;
